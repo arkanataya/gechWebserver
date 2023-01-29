@@ -1,4 +1,5 @@
-if ["$(uname)"="Linux"] then
+if ["$(uname)"="Linux"];
+ then
 apt install python3 pip3 -y
 apt install toilet -y
 else
