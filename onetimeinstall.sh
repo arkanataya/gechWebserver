@@ -6,5 +6,5 @@ else
 echo "E: Os Not Supported";
 exit 1
 fi
-toilet GechWebServer
+toilet Gechws
 echo Timer System install a some package in the geba server
